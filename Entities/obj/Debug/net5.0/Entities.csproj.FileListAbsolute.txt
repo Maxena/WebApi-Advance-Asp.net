@@ -1,0 +1,15 @@
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\Entities.deps.json
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\Entities.dll
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\ref\Entities.dll
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\Entities.pdb
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\Common.dll
+E:\Users\Maxena\source\repos\WebApplication1\Entities\bin\Debug\net5.0\Common.pdb
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.dll
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\ref\Entities.dll
+E:\Users\Maxena\source\repos\WebApplication1\Entities\obj\Debug\net5.0\Entities.pdb

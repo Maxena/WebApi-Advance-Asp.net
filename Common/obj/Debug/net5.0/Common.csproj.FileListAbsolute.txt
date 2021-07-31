@@ -1,0 +1,12 @@
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+E:\Users\Maxena\source\repos\WebApplication1\Common\bin\Debug\net5.0\Common.deps.json
+E:\Users\Maxena\source\repos\WebApplication1\Common\bin\Debug\net5.0\Common.dll
+E:\Users\Maxena\source\repos\WebApplication1\Common\bin\Debug\net5.0\ref\Common.dll
+E:\Users\Maxena\source\repos\WebApplication1\Common\bin\Debug\net5.0\Common.pdb
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.dll
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\ref\Common.dll
+E:\Users\Maxena\source\repos\WebApplication1\Common\obj\Debug\net5.0\Common.pdb
