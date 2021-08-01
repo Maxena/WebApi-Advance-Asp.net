@@ -15,6 +15,7 @@ using Microsoft.EntityFrameworkCore;
 using Data;
 using Data.Repositories;
 using WebFramework.MiddleWares;
+using Sentry.AspNetCore;
 
 namespace WebApplication1
 {
@@ -63,6 +64,7 @@ namespace WebApplication1
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseSentryTracing();
 
             app.UseAuthorization();
 
